@@ -13,7 +13,7 @@
 🎓 Software Engineering Undergraduate | 💻 Aspiring Software Developer | ✨ Passionate about building useful applications and creative digital experiences.
 
 🔭 &nbsp;I'm currently working on **Developing software projects and building my skills in web and mobile application development.**  
-🌱 &nbsp;I'm currently learning **Fst APIs, Rapid Application Development  and Distributed Systems**  
+🌱 &nbsp;I'm currently learning **Fast APIs, Rapid Application Development  and Distributed Systems**  
 👯 &nbsp;I'm looking to collaborate on **Open-source projects, web development, and beginner-friendly software projects.**  
 🤔 &nbsp;I'm looking for help with **Writing clean code, software architecture, and building scalable applications.**  
 💬 &nbsp;Ask me about **Web development, Java programming, university projects, and software engineering.**  
